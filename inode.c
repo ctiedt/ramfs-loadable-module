@@ -13,6 +13,8 @@
 #include <linux/uaccess.h>
 
 MODULE_LICENSE("GPL");
+MODULE_AUTHOR("Linus Torvalds");
+MODULE_AUTHOR("Clemens Tiedt");
 
 // We need this declaration here because of a
 // cyclic dependency.
